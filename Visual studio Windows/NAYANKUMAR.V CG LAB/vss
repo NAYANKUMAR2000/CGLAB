@@ -1,0 +1,20 @@
+
+First, paste glut.h file in:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\gl
+
+Then paste glut.lib in:
+ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\64
+ 
+Then paste the glut32.lib in:
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\86
+
+Then paste glut.dll and glut32.dll in:
+
+ C:\Windows\SysWOW64
+Finally  copy glut32.dll to:
+
+C:\Windows\System32
+
+
+
+https://www.youtube.com/watch?v=XOtY4yzitdk
