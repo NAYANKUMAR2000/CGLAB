@@ -1,0 +1,18 @@
+*To run openGl in ubuntu install freeglut library incases error persist at execution install libgraph also.
+*install freeglut
+	sudo apt-get update
+	sudo apt-get install freeglut3-dev
+
+*command to execute
+go to the path of program where do exist then type:
+
+
+
+    gcc program_name.c -lglut -lGLU -lGL
+    
+ then press enter a binary file a.out gets generated then type
+ 
+ ./a.out   to get output.
+ 
+ 
+ 
